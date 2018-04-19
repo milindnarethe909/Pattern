@@ -1,0 +1,7 @@
+<resources>
+    <!--<string name="app_name">Lock Pattern Demo</string>-->
+    <string name="app_name">Lockscreen-Monitor</string>
+    <string name="gc">Gadget Creek</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+</resources>
